@@ -1,4 +1,5 @@
 # FamilyDAO
+<img src="https://github.com/CoinCashewIO/FamilyDAO/blob/e61aee96b235b842f0408e2ef43fbadb97d9efb0/docs/images/FamilyDAOLogo.png"> <h1>FamilyDAO</h1>
 
 Please refer to the following available planning documents:
 
