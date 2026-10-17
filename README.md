@@ -1,5 +1,5 @@
 <!-- # FamilyDAO -->
-<h1><img src="https://github.com/CoinCashewIO/FamilyDAO/blob/e61aee96b235b842f0408e2ef43fbadb97d9efb0/docs/images/FamilyDAOLogo.png" width="25%">&nbsp;&nbsp;FamilyDAO</h1>
+<h1><img src="https://github.com/CoinCashewIO/FamilyDAO/blob/e61aee96b235b842f0408e2ef43fbadb97d9efb0/docs/images/FamilyDAOLogo.png" width="50">&nbsp;&nbsp;FamilyDAO</h1>
 
 Please refer to the following available planning documents:
 
