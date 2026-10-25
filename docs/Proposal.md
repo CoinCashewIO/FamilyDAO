@@ -36,9 +36,9 @@ Using FamilyDAO builds an immutable, unique and timeless resource and reference 
 
 Each individual included in the genogram for a FamilyDAO, as well as each designated trusted or professional associates, receives a unique digital ID. Individuals having a digital ID for a FamilyDAO blockchain may be granted permissions to synchronize one local copy of the blockchain and related data that may be stored off chain to a personal computer or mobile device. All instances of a FamilyDAO blockchain and related data are encrypted.
 
-Accessing a FamilyDAO blockchain or submitting transactions requires a valid digital ID. Digital IDs are secured using a password or hardware wallet. Any individual having a digital ID with permissions to synchronize a copy of a particular FamilyDAO blockchain may revoke and issue new digital IDs for the same blockchain remotely.
+Accessing a FamilyDAO blockchain or submitting transactions requires a valid digital ID. Digital IDs are secured using a password or hardware wallet. When offline, authentication is required for every action accessing the local blockchain copy. Any individual having a digital ID with permissions to synchronize a copy of a particular FamilyDAO blockchain may revoke and issue new digital IDs for the same blockchain remotely.
 
-Individuals having permissions to synchronize a local copy of a FamilyDAO blockchain may securely delete a local copy temporarily, and then resynchronize the local copy at a later time, perhaps using a different device.
+Individuals having permissions to synchronize an instance of a FamilyDAO blockchain may securely delete a local or remote instance of the blockchain.
 
 # Research Question
 
