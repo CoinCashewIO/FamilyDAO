@@ -38,7 +38,7 @@ Each individual included in the genogram for a FamilyDAO, as well as each design
 
 Accessing a FamilyDAO blockchain or submitting transactions requires a valid digital ID. Digital IDs are secured using a password or hardware wallet. Any individual having a digital ID with permissions to synchronize a copy of a particular FamilyDAO blockchain may revoke and issue new digital IDs for the same blockchain remotely.
 
-Individuals having permissions to synchronize a local copy of a FamilyDAO blockchain may securely delete the local copy temporarily, and then resynchronize the local copy at a later time, perhaps using a different device.
+Individuals having permissions to synchronize a local copy of a FamilyDAO blockchain may securely delete a local copy temporarily, and then resynchronize the local copy at a later time, perhaps using a different device.
 
 # Research Question
 
