@@ -1,3 +1,3 @@
 # Contributing to the Project
 
-For support or assistance related to FamilyDAO, please contact [CoinCashew.io](mailto:doc@coincashew.io?subject=FamilyDAO)
+For support or assistance related to the FamilyDAO project, please contact [CoinCashew.io](mailto:doc@coincashew.io?subject=FamilyDAO)
