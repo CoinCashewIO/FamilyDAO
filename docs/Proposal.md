@@ -21,7 +21,7 @@ If family members are far away, then maintaining communication by distributing a
 
 FamilyDAO may help provide new opportunities for families learning how to resolve or overcome internal conflict, offering a method for family members to establish healthy boundaries while staying connected to continue cooperating on important family matters using blockchain as a trusted intermediary tool.
 
-FamilyDAO offers your family the capacity to:
+FamilyDAO offers your family tools to:
 
 * Preserve identity and knowledge
 * Organize collective affairs
