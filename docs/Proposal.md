@@ -25,8 +25,9 @@ FamilyDAO offers your family the capacity to:
 
 * Preserve identity and knowledge
 * Organize collective affairs
-* Manage collectively held or generational resources, and
-* Negotiate relationships with external institutions
+* Manage collectively held or generational resources
+* Negotiate relationships with external institutions, and
+* Endure nightmare scenarios
 
 FamilyDAO is **not** intended as the only medium that families may use to communicate and interact.
 
