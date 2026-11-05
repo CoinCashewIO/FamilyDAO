@@ -64,7 +64,7 @@ The current proposal aims to elicit requirements for FamilyDAO features and func
 
 # Significance and Expected Outcomes
 
-FamilyDAO aims to offer a secure, private and easy-to-use platform helping to honour generations of families, human connections and social networks without centralized data storage on servers controlled by technology companies, for example to train artificial intelligence tools.
+FamilyDAO aims to offer a secure, private and easy-to-use platform helping to honour generations of families, human connections and social networks without centralized data storage on servers controlled by technology companies, for example to train artificial intelligence models.
 
 More people using a product, service or platform creating more value for every user is an economic phenomenon referred to as a network effect. While network driven, FamilyDAO does not depend on a network effect to create value.
 
