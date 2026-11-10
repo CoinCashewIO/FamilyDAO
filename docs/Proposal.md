@@ -108,6 +108,8 @@ Lent, J. (2026). *Ecocivilization: Making a World That Works For All*. Brooklyn:
 
 Memorygram. (2026). On a Mission To Preserve Precious Memories and Legacy. Retrieved August 10, 2026, from [https://memoirs.memorygram.com/](https://memoirs.memorygram.com/)
 
+MetaLeX. (2026). cyberSign. (2026). Retrieved November 9, 2026, from [https://docs.metalex.tech/using-the-apps/cybersign](https://docs.metalex.tech/using-the-apps/cybersign)
+
 Multicultural Family Institute. (2023). Standard Symbols for Genograms. Retrieved July 7, 2026, from [https://multiculturalfamily.org/product/genogram-how-to-downloadable-pdf/](https://multiculturalfamily.org/product/genogram-how-to-downloadable-pdf/)
 
 NOĒMA. (2026). We May Be Entering A Second Axial Age. Retrieved July 9, 2026, from [https://www.noemamag.com/we-may-be-entering-a-second-axial-age/](https://www.noemamag.com/we-may-be-entering-a-second-axial-age/)
