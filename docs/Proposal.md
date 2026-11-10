@@ -37,7 +37,7 @@ FamilyDAO is **not** intended as the only medium that families may use to commun
 
 Using FamilyDAO builds an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
 
-# Securing Data
+# Data Storage
 
 Each living individual included in the genogram for a FamilyDAO, as well as each designated trusted or professional associate, receives a unique digital ID that may grant permissions to synchronize one local copy of the FamilyDAO blockchain and related data stored off chain to a personal computer or mobile device. All instances of a FamilyDAO blockchain and related data are encrypted. Individuals granted permissions to synchronize a local copy of a FamilyDAO may set the local instance to operate offline.
 
