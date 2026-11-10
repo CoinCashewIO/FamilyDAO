@@ -12,6 +12,16 @@ Relevant to **AI and Relationships**, FamilyDAO offers a permissionless, sociall
 
 We all have a family of origin inherited by birth, adoption or law; or, need a chosen family intentionally gathered through love, trust and mutual respect. We live in a time where more than ever family members may be separated—by geography, emotions, politics, natural disasters or war. Using FamilyDAO, you create your own dedicated, distributed and secure blockchain just for you and your family, stored only on your physical or virtual computers and devices.
 
+FamilyDAO may help provide new opportunities for families learning how to resolve or overcome internal conflict, offering a method for family members to establish healthy boundaries while staying connected to continue cooperating on important family matters using blockchain as a trusted intermediary tool.
+
+FamilyDAO offers your family tools to:
+
+* Preserve identity and knowledge
+* Organize collective affairs
+* Manage collectively held or generational resources
+* Negotiate relationships with external institutions, and
+* Endure nightmare scenarios
+
 # Core Functionality
 
 On your family blockchain, you can create a genogram family tree including relationships spanning any number of generations.<sup><a href="#orgchart">1</a></sup> Only you and family members you designate in your FamilyDAO can add or update records in your family tree to preserve, commemorate and share details related to births, deaths, graduations, marriages, divorces, anniversaries and other significant events.<sup><a href="#normalizing">2</a></sup> Family members may create wills without the need of a notary public. Smart contracts may help to ensure due process without the court system. Families may vote privately to make decisions on important family matters—including administration of the FamilyDAO—collectively. You can define rules for weighting and voting roles within your family, as well as rules for creating and assigning rules for weighting and voting roles, as you may choose. Zero-knowledge proofs may be useful for verifying voting results while respecting privacy. FamilyDAO stores immutable data—related to births, deaths and votes, for example—on blockchain.
@@ -26,20 +36,6 @@ FamilyDAO also offers functionality to support and administer income sharing, he
 <!-- In much of Africa, extended family networks act as a bank, business partner and welfare state combined, where kinship obligations mean income is frequently shared to support relatives with daily needs, housing, or school fees. For example, each family member including extended family may pay $5 into a pool each week, and then under certain conditions people may borrow from the fund. The family may send someone to college using such a mechanism, and then the person pays the fund back over time. So FamilyDAO may track such transactions, saving and lending, within the family. In particular, managing such interactions may become difficult in families having no clear patriarch.  -->
 
 If family members are far away, then maintaining communication by distributing and synchronizing the nodes storing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family may want. Nodes that disconnect from the network automatically synchronize when reconnected. FamilyDAO blockchains are designed to be passed down, inherited and grown over generations.
-
-FamilyDAO may help provide new opportunities for families learning how to resolve or overcome internal conflict, offering a method for family members to establish healthy boundaries while staying connected to continue cooperating on important family matters using blockchain as a trusted intermediary tool.
-
-FamilyDAO offers your family tools to:
-
-* Preserve identity and knowledge
-* Organize collective affairs
-* Manage collectively held or generational resources
-* Negotiate relationships with external institutions, and
-* Endure nightmare scenarios
-
-FamilyDAO is **not** intended as the only medium that families may use to communicate and interact.
-
-Using FamilyDAO builds an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
 
 # Managing Data
 
@@ -74,9 +70,11 @@ The current proposal aims to elicit requirements for FamilyDAO features and func
 
 FamilyDAO aims to offer a secure, private and easy-to-use platform helping to honour generations of families, human connections and social networks without centralized data storage on servers controlled by technology companies, for example to train artificial intelligence models.
 
+FamilyDAO is **not** intended as the only medium that families may use to communicate and interact.
+
 More people using a product, service or platform creating more value for every user is an economic phenomenon referred to as a network effect. While network driven, FamilyDAO does not leverage network effects to create value.
 
-The expected outcome is FamilyDAO organically becoming a sustainable, mainstream and everyday tool—not an extractive algorithm—for the general public.
+Using FamilyDAO builds an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->. The expected outcome is FamilyDAO organically becoming a sustainable, mainstream and everyday tool—not an extractive algorithm—for the general public.
 
 <!--
 ## Expected Contributions
