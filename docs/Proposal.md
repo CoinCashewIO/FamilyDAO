@@ -70,11 +70,11 @@ The current proposal aims to elicit requirements for FamilyDAO features and func
 
 FamilyDAO aims to offer a secure, private and easy-to-use platform helping to honour generations of families, human connections and social networks without centralized data storage on servers controlled by technology companies, for example to train artificial intelligence models.
 
-FamilyDAO is **not** intended as the only medium that families may use to communicate and interact.
-
 More people using a product, service or platform creating more value for every user is an economic phenomenon referred to as a network effect. While network driven, FamilyDAO does not leverage network effects to create value.
 
-Using FamilyDAO builds an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->. The expected outcome is FamilyDAO organically becoming a sustainable, mainstream and everyday tool—not an extractive algorithm—for the general public.
+FamilyDAO is **not** intended as the only medium that families may use to communicate and interact. Using FamilyDAO builds an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
+
+The expected outcome is FamilyDAO organically becoming a sustainable, mainstream and everyday tool—not an extractive algorithm—for the general public.
 
 <!--
 ## Expected Contributions
