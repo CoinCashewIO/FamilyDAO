@@ -5,5 +5,5 @@ For support or assistance related to the FamilyDAO project, please contact [Coin
 
 The following contributors are gratefully acknowledged:
 
-Nori Nishigaya  
+**Nori Nishigaya**  
 [Open Decentralized Innovation Network](https://www.odin.eco/)
