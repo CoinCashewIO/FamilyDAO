@@ -39,7 +39,11 @@ You may designate trusted or professional associates to help administer your Fam
 FamilyDAO also offers functionality to support and administer income sharing, helping to facilitate transactions related to informal borrowing from relatives and friends that may cover daily needs, housing, school fees or unexpected costs for example.
 <!-- In much of Africa, extended family networks act as a bank, business partner and welfare state combined, where kinship obligations mean income is frequently shared to support relatives with daily needs, housing, or school fees. For example, each family member including extended family may pay $5 into a pool each week, and then under certain conditions people may borrow from the fund. The family may send someone to college using such a mechanism, and then the person pays the fund back over time. So FamilyDAO may track such transactions, saving and lending, within the family. In particular, managing such interactions may become difficult in families having no clear patriarch.  -->
 
-If family members are far away, then maintaining communication by distributing and synchronizing the nodes storing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family may want. Nodes that disconnect from the network automatically synchronize when reconnected. FamilyDAO blockchains are designed to be passed down, inherited and grown over generations.
+If family members are far away, then maintaining communication by distributing and synchronizing the nodes storing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family may want.
+
+Nodes that disconnect from the network automatically synchronize when reconnected.
+
+FamilyDAO blockchains are designed to be passed down, inherited and grown over generations.
 
 # Managing Data
 
