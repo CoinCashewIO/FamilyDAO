@@ -47,6 +47,33 @@ Individuals having permissions to synchronize an instance of a FamilyDAO blockch
 
 Designated friends receive a digital ID permitting receipt of broadcast news as well as participation in text, audio and video chat functionality for the FamilyDAO. Individuals may be designated friends in multiple FamilyDAOs.
 
+# Representing Genogram Data
+
+Mathematically, a genogram is modelled as a directed graph:
+
+- **Nodes** represent individuals. Each node stores an object containing vital data, such as digital ID, name, gender, birth date, death date, medical conditions and psychological traits, for example.
+- **Union Nodes** are used when representing marriages and divorces involving children to show relationships with parents, including adoptions and foster statuses.
+- **Lines** represent relationships. Lines may link nodes to other nodes, for example when describing the nature of a relationship. Lines may also link nodes to union nodes.
+
+A directed graph may be serialized using JSON or XML for storage and transmission. The following example uses JSON format:
+
+```JSON
+{
+  "Individuals": [
+    {"id": "person1", "name": "Cayden Arnold", "gender": "M", "born": 1974},
+    {"id": "person2", "name": "Sidney McCray", "gender": "F", "born": 1976}
+    {"id": "person3", "name": "Ewan Arnold-McCray", "gender": "F", "born": 2010}
+  ],
+  "Unions": [
+    {"id": "union1", "partner1": "person1", "partner2": "person2", "type": "Married", "date": 2008}
+  ],
+  "Relationships": [
+    {"from": "person1", "to": "person2", "type": "Conflictual"}
+    {"from": "person3", "to": "union1", "type": "Child"}
+  ]
+}
+```
+
 # Research Question
 
 How may a decentralized software application helping families around the world securely and privately preserve and strengthen genograms, personal history, social networks and connections over generations be developed and implemented successfully?
