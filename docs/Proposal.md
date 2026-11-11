@@ -49,7 +49,7 @@ Designated friends receive a digital ID permitting receipt of broadcast news as 
 
 # Representing Genogram Data
 
-Mathematically, a genogram is modelled as a directed graph:
+Mathematically, a genogram may be modelled as a directed graph:
 
 - **Nodes** represent individuals. Each node stores an object containing vital data, such as digital ID, name, gender, birth date, death date, medical conditions and psychological traits, for example.
 - **Union Nodes** are used when representing marriages and divorces involving children to show relationships with parents, including adoptions and foster statuses.
