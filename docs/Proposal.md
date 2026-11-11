@@ -61,14 +61,14 @@ A directed graph may be serialized using JSON or XML for storage and transmissio
 {
   "Individuals": [
     {"id": "person1", "name": "Cayden Arnold", "gender": "M", "born": 1974},
-    {"id": "person2", "name": "Sidney McCray", "gender": "F", "born": 1976}
+    {"id": "person2", "name": "Sidney McCray", "gender": "F", "born": 1976},
     {"id": "person3", "name": "Ewan Arnold-McCray", "gender": "F", "born": 2010}
   ],
   "Unions": [
     {"id": "union1", "partner1": "person1", "partner2": "person2", "type": "Married", "date": 2008}
   ],
   "Relationships": [
-    {"from": "person1", "to": "person2", "type": "Conflictual"}
+    {"from": "person1", "to": "person2", "type": "Conflictual"},
     {"from": "person3", "to": "union1", "type": "Biological"}
   ]
 }
