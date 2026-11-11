@@ -69,7 +69,7 @@ A directed graph may be serialized using JSON or XML for storage and transmissio
   ],
   "Relationships": [
     {"from": "person1", "to": "person2", "type": "Conflictual"}
-    {"from": "person3", "to": "union1", "type": "Child"}
+    {"from": "person3", "to": "union1", "type": "Biological"}
   ]
 }
 ```
