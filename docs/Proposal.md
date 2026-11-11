@@ -116,7 +116,7 @@ Research and development of FamilyDAO would benefit from contributions by the fo
 
 # Notes
 
-<a name="orgchart"></a><sup>1</sup> In another embodiment, the genogram may be replaced with an organizational chart conveying the internal structure of an organization or workplace. Records may detail personal, professional and operational data across the entire employee lifecycle, for example. See also [WorkplaceDAO](https://github.com/CoinCashewIO/WorkplaceDAO).
+<a name="orgchart"></a><sup>1</sup> In another embodiment, the genogram may be replaced with an organizational chart conveying the internal structure of an organization or workplace. Records may detail personal, professional and operational data across the entire employee lifecycle, for example. An organizational chart is a type of [directed graph](). See also [WorkplaceDAO](https://github.com/CoinCashewIO/WorkplaceDAO).
 
 <a name="normalizing"></a><sup>2</sup> When individuals appear in multiple FamilyDAO genograms, you can choose whether to link or duplicate data.
 
