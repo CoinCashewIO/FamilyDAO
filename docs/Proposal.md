@@ -30,6 +30,8 @@ Families may vote privately to make decisions on important family matters—incl
 
 FamilyDAO stores immutable data—related to births, deaths and votes, for example—on blockchain.
 
+Core functionality also includes an Application Programming Interface (API) to support third-party development.
+
 # Additional Features
 
 FamilyDAO allows you to associate additional text, images, audio or video recordings with data stored immutably, for example saving traditional recipes for the benefit of family as well as a wider community. FamilyDAO stores mutable data privately and securely off chain.
