@@ -57,9 +57,13 @@ Individuals having permissions to synchronize an instance of a FamilyDAO blockch
 
 Designated friends receive a digital ID permitting receipt of broadcast news as well as participation in text, audio and video chat functionality for the FamilyDAO. Individuals may be designated friends in multiple FamilyDAOs.
 
-# Blockchain Implementation Options
+# Storing Data Immutably
 
+In a FamilyDAO implementation, families may store immutable data on blockchain using three options:
 
+- A dedicated, secure and independent **private** blockchain—With nodes distributed only amongst family members, benefits include encrypted immutable data existing only on devices and computers that your family controls. Risks include storing immutable data on a relatively low number of blockchain nodes in total, with increased centralization.
+- A secure, privacy-focussed **public** chain—Benefits include duplication of encrypted data on blockchain nodes maintained around the world by unknown third parties, increasing decentralization. Risks include storing encrypted data on devices and computers that you and your family do **NOT** control.
+- One or more **reference** nodes—In a private blockchain implementation, a family may elect one or more trusted or professional associates having a fiduciary responsibility to act in the best interests of the family to host nodes identified as a source of truth when discrepancies between nodes in the family network may occur. Benefits include creating additional security for a family network that may operate using a relatively small number of blockchain nodes. Risks include storing data on devices and computers controlled by intermediaries. However, risks of a trusted intermediary who works for you and your family compromising or misusing FamilyDAO data are significantly less than risks associated with the current expectation to store personal data on centralized servers controlled by large social media companies<!-- who offer free services in exchange for profitting from you and your loved ones' data and attention--> who prioritize their own interests above yours.
 
 # Representing Genogram Data
 
