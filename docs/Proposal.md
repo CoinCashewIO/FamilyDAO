@@ -57,6 +57,10 @@ Individuals having permissions to synchronize an instance of a FamilyDAO blockch
 
 Designated friends receive a digital ID permitting receipt of broadcast news as well as participation in text, audio and video chat functionality for the FamilyDAO. Individuals may be designated friends in multiple FamilyDAOs.
 
+# Blockchain Implementation Options
+
+
+
 # Representing Genogram Data
 
 Mathematically, a genogram may be modelled as a directed graph:
