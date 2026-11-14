@@ -42,10 +42,6 @@ You may designate trusted or professional associates to help administer your Fam
 FamilyDAO also offers functionality to support and administer income sharing, helping to facilitate transactions related to informal borrowing from relatives and friends that may cover daily needs, housing, school fees or unexpected costs for example.
 <!-- In much of Africa, extended family networks act as a bank, business partner and welfare state combined, where kinship obligations mean income is frequently shared to support relatives with daily needs, housing, or school fees. For example, each family member including extended family may pay $5 into a pool each week, and then under certain conditions people may borrow from the fund. The family may send someone to college using such a mechanism, and then the person pays the fund back over time. So FamilyDAO may track such transactions, saving and lending, within the family. In particular, managing such interactions may become difficult in families having no clear patriarch.  -->
 
-If family members are far away, then maintaining communication by distributing and synchronizing the nodes storing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family may want.
-
-Nodes that disconnect from the network automatically synchronize when reconnected.
-
 FamilyDAO blockchains are designed to be passed down, inherited and grown over generations.
 
 # Storing Data Immutably
@@ -58,11 +54,13 @@ In a FamilyDAO implementation, families may store immutable data on blockchain u
 
 # Managing Data Using a Private Blockchain
 
-Each living individual included in the genogram for a FamilyDAO, as well as each designated trusted or professional associate, receives a unique digital ID that may grant permissions to synchronize one local copy of the FamilyDAO blockchain and related data stored off chain to a personal computer or mobile device. All instances of a FamilyDAO blockchain and related data are encrypted. Individuals granted permissions to synchronize a local copy of a FamilyDAO may set the local instance to operate offline.
+If family members are far away, then maintaining communication by distributing and synchronizing the nodes storing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family may want.
+
+Each living individual included in the genogram for a FamilyDAO, as well as each designated trusted or professional associate, receives a unique digital ID that may grant permissions to synchronize one local copy of the FamilyDAO blockchain and related data stored off chain to a personal computer or mobile device. All instances of a FamilyDAO blockchain and related data are encrypted.
+
+Individuals granted permissions to synchronize a local copy of a FamilyDAO may set the local instance to operate offline. Nodes that disconnect from the network automatically synchronize when reconnected. Individuals having permissions to synchronize an instance of a FamilyDAO blockchain may securely delete their local instance of the blockchain.
 
 Accessing a FamilyDAO blockchain or submitting transactions requires a valid digital ID having appropriate permissions. Digital IDs are secured using a password or hardware wallet. When offline, authentication is required for every action accessing the local blockchain instance. Any individual having a digital ID with permissions to synchronize an instance of a particular FamilyDAO blockchain may revoke and issue new digital IDs for the same blockchain remotely. Revoking and issuing digital IDs may require multiple signatures.
-
-Individuals having permissions to synchronize an instance of a FamilyDAO blockchain may securely delete their local instance of the blockchain.
 
 Designated friends receive a digital ID permitting receipt of broadcast news as well as participation in text, audio and video chat functionality for the FamilyDAO. Individuals may be designated friends in multiple FamilyDAOs.
 
