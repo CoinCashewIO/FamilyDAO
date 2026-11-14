@@ -48,7 +48,15 @@ Nodes that disconnect from the network automatically synchronize when reconnecte
 
 FamilyDAO blockchains are designed to be passed down, inherited and grown over generations.
 
-# Managing Data
+# Storing Data Immutably
+
+In a FamilyDAO implementation, families may store immutable data on blockchain using three options:
+
+- A dedicated, secure and independent **private** blockchain—With nodes distributed only amongst family members, benefits include encrypted immutable data existing only on devices and computers that your family controls. Risks include storing immutable data on a relatively low number of blockchain nodes in total, increasing centralization.
+- A secure, privacy-focussed **public** blockchain—Benefits include duplication of encrypted data on blockchain nodes maintained around the world by unknown third parties, improving decentralization. Risks include storing encrypted data on devices and computers that you and your family do **NOT** control.
+- One or more **reference nodes**—In a private blockchain implementation, a family may elect one or more trusted or professional associates having a fiduciary responsibility to act in the best interests of the family to host one or more nodes recognized as a source of truth when discrepancies between nodes operated by family members may occur. Benefits include providing additional integrity for FamilyDAO networks that may operate using a relatively small number of blockchain nodes. Risks include storing data on devices and computers controlled by intermediaries. Risks associated with a trusted intermediary who works for you and your family misusing or compromising FamilyDAO data are significantly less than risks associated with storing personal data on centralized servers controlled by large corporations<!-- who offer free services in exchange for profitting from you and your loved ones' data and attention--> prioritizing their interests and profits.
+
+# Managing Data Using a Private Blockchain
 
 Each living individual included in the genogram for a FamilyDAO, as well as each designated trusted or professional associate, receives a unique digital ID that may grant permissions to synchronize one local copy of the FamilyDAO blockchain and related data stored off chain to a personal computer or mobile device. All instances of a FamilyDAO blockchain and related data are encrypted. Individuals granted permissions to synchronize a local copy of a FamilyDAO may set the local instance to operate offline.
 
@@ -57,14 +65,6 @@ Accessing a FamilyDAO blockchain or submitting transactions requires a valid dig
 Individuals having permissions to synchronize an instance of a FamilyDAO blockchain may securely delete their local instance of the blockchain.
 
 Designated friends receive a digital ID permitting receipt of broadcast news as well as participation in text, audio and video chat functionality for the FamilyDAO. Individuals may be designated friends in multiple FamilyDAOs.
-
-# Storing Data Immutably
-
-In a FamilyDAO implementation, families may store immutable data on blockchain using three options:
-
-- A dedicated, secure and independent **private** blockchain—With nodes distributed only amongst family members, benefits include encrypted immutable data existing only on devices and computers that your family controls. Risks include storing immutable data on a relatively low number of blockchain nodes in total, increasing centralization.
-- A secure, privacy-focussed **public** blockchain—Benefits include duplication of encrypted data on blockchain nodes maintained around the world by unknown third parties, improving decentralization. Risks include storing encrypted data on devices and computers that you and your family do **NOT** control.
-- One or more **reference nodes**—In a private blockchain implementation, a family may elect one or more trusted or professional associates having a fiduciary responsibility to act in the best interests of the family to host one or more nodes recognized as a source of truth when discrepancies between nodes operated by family members may occur. Benefits include providing additional integrity for FamilyDAO networks that may operate using a relatively small number of blockchain nodes. Risks include storing data on devices and computers controlled by intermediaries. Risks associated with a trusted intermediary who works for you and your family misusing or compromising FamilyDAO data are significantly less than risks associated with storing personal data on centralized servers controlled by large corporations<!-- who offer free services in exchange for profitting from you and your loved ones' data and attention--> prioritizing their interests and profits.
 
 # Representing Genogram Data
 
