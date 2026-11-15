@@ -48,21 +48,21 @@ FamilyDAO blockchains are designed to be passed down, inherited and grown over g
 
 In a FamilyDAO implementation, families may store immutable data on blockchain using three options:
 
-- A dedicated, secure and independent **private** blockchain—With nodes distributed only amongst family members, benefits include encrypted immutable data existing only on devices and computers that your family controls. Risks include storing immutable data on a relatively low number of blockchain nodes in total, increasing centralization.
+- A dedicated, secure and independent **private** blockchain—With nodes distributed only amongst family members, benefits include encrypted immutable data existing only on devices and computers that your family controls. Risks include storing immutable data on a relatively low number of blockchain nodes in total, increasing centralization. If family members are far away, then maintaining communication by distributing and synchronizing the nodes storing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization.
 - A secure, privacy-focussed **public** blockchain—Benefits include duplication of encrypted data on blockchain nodes maintained around the world by unknown third parties, improving decentralization. Risks include storing encrypted data on devices and computers that you and your family do **NOT** control.
 - One or more **reference nodes**—In a private blockchain implementation, a family may elect one or more trusted or professional associates having a fiduciary responsibility to act in the best interests of the family to host one or more nodes recognized as a source of truth when discrepancies between nodes operated by family members may occur. Benefits include providing additional integrity for FamilyDAO networks that may operate using a relatively small number of blockchain nodes. Risks include storing data on devices and computers controlled by intermediaries. Risks associated with a trusted intermediary who works for you and your family misusing or compromising FamilyDAO data are significantly less than risks associated with storing personal data on centralized servers controlled by large corporations<!-- who offer free services in exchange for profitting from you and your loved ones' data and attention--> prioritizing their interests and profits.
 
-# Managing Data Using a Private Blockchain
+# Managing Data
 
-If family members are far away, then maintaining communication by distributing and synchronizing the nodes storing your family blockchain around the world in real time using the Internet becomes an advantage by helping to increase decentralization, securing and preserving your family relationships and history as long as you and your family may want.
+All data in a FamilyDAO—mutable and immutable—are encrypted.
 
-Each living individual included in the genogram for a FamilyDAO, as well as each designated trusted or professional associate, receives a unique digital ID that may grant permissions to synchronize one local copy of the FamilyDAO blockchain and related data stored off chain to a personal computer or mobile device. All instances of a FamilyDAO blockchain and related data are encrypted.
+Accessing a FamilyDAO or submitting transactions requires a valid digital ID having appropriate permissions. Living individuals included in the genogram for a FamilyDAO, as well as designated friends and trusted or professional associates, receive a unique digital ID granting permissions in the FamilyDAO. Designated friends receive a digital ID permitting receipt of broadcast news as well as participation in text, audio and video chat functionality for the FamilyDAO.<sup><a href="#friends">3</a></sup> At the discretion of parents, the digital ID for children may facilitate read-only access to the family genogram, in addition to some or all of the permissions designated to friends.
 
-Individuals granted permissions to synchronize a local copy of a FamilyDAO may set the local instance to operate offline. Nodes that disconnect from the network automatically synchronize when reconnected. Individuals having permissions to synchronize an instance of a FamilyDAO blockchain may securely delete their local instance of the blockchain.
+In a private blockchain implementation, permissions may include the ability to synchronize one local copy of the FamilyDAO blockchain and related data stored off chain to a personal computer or mobile device. Individuals granted permissions to synchronize a local copy of a FamilyDAO may set the local instance to operate offline. When offline, authentication is required for every action accessing the local blockchain instance. Nodes that disconnect from the network automatically synchronize when reconnected. Individuals having permissions to synchronize an instance of a FamilyDAO blockchain may securely delete their local instance of the blockchain.
 
-Accessing a FamilyDAO blockchain or submitting transactions requires a valid digital ID having appropriate permissions. Digital IDs are secured using a password or hardware wallet. When offline, authentication is required for every action accessing the local blockchain instance. Any individual having a digital ID with permissions to synchronize an instance of a particular FamilyDAO blockchain may revoke and issue new digital IDs for the same blockchain remotely. Revoking and issuing digital IDs may require multiple signatures.
+Digital IDs are secured using a password or hardware wallet. Revoking, issuing or changing permissions for digital IDs may require voting and/or multiple signatures. <!-- Any individual having a digital ID with permissions to synchronize an instance of a particular FamilyDAO blockchain may revoke and issue new digital IDs for the FamilyDAO immutable data remotely. -->
 
-Designated friends receive a digital ID permitting receipt of broadcast news as well as participation in text, audio and video chat functionality for the FamilyDAO. Individuals may be designated friends in multiple FamilyDAOs.
+Individuals may choose to continue storing data that are private from the family outside their FamilyDAO. Families or individuals may stop using FamilyDAO, and/or start their own FamilyDAO, at any time.
 
 # Representing Genogram Data
 
@@ -116,7 +116,7 @@ FamilyDAO aims to offer a secure, private and easy-to-use platform helping to ho
 
 More people using a product, service or platform creating more value for every user is an economic phenomenon referred to as a network effect. While network driven, FamilyDAO does not leverage network effects to create value.
 
-FamilyDAO is **not** intended as the only medium that families may use to communicate and interact. Using FamilyDAO builds an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->.
+FamilyDAO is **not** intended as the only medium that families may use to communicate and interact. Using FamilyDAO builds an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->. <!-- , securing and preserving your family relationships and history as long as you and your family may want -->
 
 The expected outcome is FamilyDAO organically becoming a sustainable, mainstream and everyday tool—not an extractive algorithm—for the general public.
 
@@ -136,6 +136,8 @@ Research and development of FamilyDAO would benefit from contributions by the fo
 <a name="orgchart"></a><sup>1</sup> In another embodiment, the genogram may be replaced with an organizational chart conveying the internal structure of an organization or workplace. Records may detail personal, professional and operational data across the entire employee lifecycle, for example. An organizational chart is a type of [directed graph](#representing-genogram-data). See also [WorkplaceDAO](https://github.com/CoinCashewIO/WorkplaceDAO).
 
 <a name="normalizing"></a><sup>2</sup> When individuals appear in multiple FamilyDAO genograms, you may choose whether to link or duplicate data.
+
+<a name="friends"></a><sup>3</sup> Individuals may be designated as friends in multiple FamilyDAOs.
 
 # Resources
 
