@@ -62,6 +62,8 @@ Digital IDs are secured using a password or hardware wallet. Revoking, issuing o
 
 Individuals may store data that are private from the family network outside their FamilyDAO. Families or individuals may stop using FamilyDAO, and/or start their own FamilyDAO, at any time.
 
+<!-- Expecting people to 1) store all data on a platform, and 2) never be able leave (due to a Nash equilibrium such as everyone using the platform, for example) indicates an extractive algorithm at work. FamilyDAO must be complementary with Web 2.0 social media use, NOT in competition. -->
+
 # Representing Genogram Data
 
 Mathematically, a genogram may be modelled as a directed graph:
