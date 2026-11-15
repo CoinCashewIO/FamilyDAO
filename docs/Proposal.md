@@ -60,7 +60,7 @@ In a private blockchain implementation, permissions may include the ability to s
 
 Digital IDs are secured using a password or hardware wallet. Revoking, issuing or changing permissions for digital IDs may require voting and/or multiple signatures. <!-- Any individual having a digital ID with permissions to synchronize an instance of a particular FamilyDAO blockchain may revoke and issue new digital IDs for the FamilyDAO immutable data remotely. -->
 
-Individuals may store data that are private from the family outside their FamilyDAO. Families or individuals may stop using FamilyDAO, and/or start their own FamilyDAO, at any time.
+Individuals may store data that are private from the family network outside their FamilyDAO. Families or individuals may stop using FamilyDAO, and/or start their own FamilyDAO, at any time.
 
 # Representing Genogram Data
 
