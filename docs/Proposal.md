@@ -118,6 +118,8 @@ More people using a product, service or platform creating more value for every u
 
 FamilyDAO is **not** intended as the only medium that families may use to communicate and interact. Using FamilyDAO builds an immutable, unique and timeless resource and reference for current and future generations of your family, curated only by and for the people who matter most<!--, without interference by centralized authorities, institutions and organizations that may seek to invade your privacy to profit from capturing, processing and using your personal data-->. <!-- , securing and preserving your family relationships and history as long as you and your family may want -->
 
+FamilyDAO is a tool for building trust.
+
 The expected outcome is FamilyDAO organically becoming a sustainable, mainstream and everyday tool—not an extractive algorithm—for the general public.
 
 <!--
