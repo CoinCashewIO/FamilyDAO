@@ -46,7 +46,7 @@ FamilyDAO blockchains are designed to be passed down, inherited and grown over g
 
 # Storing Data Immutably
 
-In a FamilyDAO implementation, families may store immutable data on blockchain using three options:
+In a FamilyDAO implementation, families may store immutable data on blockchain using three options offering different incentives:
 
 - A dedicated, secure and independent **private** blockchain—With nodes distributed only amongst family members, benefits include encrypted immutable data existing only on devices and computers that your family controls. If family members are far away, then maintaining communication by distributing and synchronizing nodes around the world in real time using the Internet becomes an advantage by helping to increase decentralization. Over time, growing the size of your family also improves the security of your FamilyDAO. Risks include storing immutable data on a relatively low number of blockchain nodes in total.
 - A secure, privacy-focussed **public** blockchain—Benefits include duplication of encrypted data on blockchain nodes maintained around the world by unknown third parties, improving decentralization. Risks include storing encrypted data on devices and computers that you and your family do **NOT** control, diminishing the importance of family members in securing the FamilyDAO.
