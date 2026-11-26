@@ -5,5 +5,6 @@ Please refer to the following available planning documents:
 
 * [Proposal](./docs/Proposal.md)
 * [Deployment Diagram](./docs/DeploymentDiagram.md)
+* [Architecture Overview](./docs/pdfs/ArchitectureOverview.pdf)
 
 <p align="center"><sup>A</sup>&nbsp;&nbsp;<a href="https://www.sensorica.co/ventures/familydao"><img src="https://github.com/CoinCashewIO/FamilyDAO/blob/c69c01303a278975ae56e0b775fbb32f41582b89/docs/images/SensoricaLogo.png"></a>&nbsp;&nbsp;<sup>Venture</sup></p>
